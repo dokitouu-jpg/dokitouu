@@ -55,8 +55,6 @@ This GitHub serves as a portfolio of technical projects, lab environments, and d
 <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
-</div>
 
 ---
 

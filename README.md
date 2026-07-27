@@ -2,7 +2,7 @@
 
 Network Engineering • Cloud Security • Cybersecurity
 
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/dominique-kitou-3bb105319/">
 <img src="https://img.shields.io/badge/-LinkedIn-0072B1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 

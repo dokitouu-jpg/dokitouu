@@ -1,0 +1,75 @@
+# Network Engineering Portfolio
+
+A curated portfolio of hands-on networking projects developed through practical lab environments.
+
+---
+
+## Portfolio Overview
+
+This repository documents practical implementations covering enterprise networking, routing, switching and cybersecurity fundamentals.
+
+Each project includes:
+
+- Objectives
+- Network topology
+- Configuration
+- Verification
+- Troubleshooting
+- Lessons learned
+
+---
+
+## Technical Areas
+
+- Enterprise Networking
+- Routing & Switching
+- Python Automation
+- Cybersecurity Fundamentals
+- Infrastructure
+
+---
+
+## Project Index
+
+| # | Project | Technologies | Status |
+|---|----------|--------------|--------|
+| 01 | Enterprise VLANs | VLAN, Trunking, STP | ✅ |
+| 02 | Router-on-a-Stick | ROAS, 802.1Q | ✅ |
+| 03 | Static Routing | IPv4 Routing | ✅ |
+| 04 | OSPF | Dynamic Routing | 🔄 |
+| 05 | NAT Overload | PAT, NAT | 🔄 |
+| 06 | DHCP Services | DHCP | 🔄 |
+| 07 | Access Control Lists | Standard & Extended ACL | 🔄 |
+| 08 | Linux Server Administration | Ubuntu Server | 🔄 |
+| 09 | Python Network Automation | Python | 🔄 |
+| 10 | Cybersecurity Labs | TryHackMe, Hack The Box | 🔄 |
+
+---
+
+## Lab Methodology
+
+Every project follows the same documentation structure.
+
+1. Objectives
+2. Topology
+3. Addressing Plan
+4. Configuration
+5. Verification
+6. Troubleshooting
+7. Lessons Learned
+
+---
+
+## Technologies
+
+### Networking
+
+Cisco IOS • Cisco Packet Tracer • Wireshark • GNS3 • EVE-NG
+
+---
+
+## Contact
+
+LinkedIn
+
+Email
